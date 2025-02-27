@@ -136,4 +136,4 @@ with gr.Blocks() as dwebui:
             create_info_tab()
 
 # Launch the WebUI
-dwebui.launch(share=False)
+dwebui.launch(share=True)
